@@ -10,16 +10,14 @@
 ## 📆개발 기간
 2022.07.11 ~ 2022.07.22
 
-<br>
-<h2> ⚙사용 기술 </h2>
+<h2> 개발환경 </h2>
+- Oracle Database 11g
+- Java 11, Eclipse
+- 개발 언어: JAVA, JSP, HTML5, CSS3, JS ES6
 
-- 자바 컬렉션 - ArrayList<T>
-- 메소드 오버로딩, 생성자 오버로딩
-- DBMS - DDL, DML, View
-- JDBC - Connection, PreparedStatement, ResultSet, CallableStatement
-- HTML5, CSS, JavaScript, JQuery
-- JSP - JSTL 문법, EL문법
-- Servlet - 가상주소, Dispatcher, request, response 등
+<br>
+<h2> ⚙핵심 기술 </h2>
+- MVC 패턴 사용
 - Open API - 카카오 맵 API(좌표 찍기, 편의 시설, 클러스터러), 주소 검색API, 메일 인증API, 부동산중개업사무소정보조회API
 - 라이브러리 - chart.js(막대 그래프), cos.jar(파일 업로드), bootsrap(디자인 활용), mail.jar, activation.jar(이메일 인증 구현)
 
